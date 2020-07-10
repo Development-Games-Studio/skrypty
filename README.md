@@ -1,0 +1,2 @@
+# skrypty
+GitHub Pages
